@@ -1,0 +1,9 @@
+{
+    "volumeSFX": 0.16690756380558015,
+    "volumeMusic": 0.0,
+    "moveSensitivity": 0.10000000149011612,
+    "turnSensitivity": 1.0,
+    "carBuilderCamType": 0,
+    "useGamepad": true,
+    "playerName": "Player"
+}

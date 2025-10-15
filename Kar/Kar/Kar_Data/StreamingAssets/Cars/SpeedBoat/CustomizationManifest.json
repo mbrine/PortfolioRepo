@@ -1,0 +1,11 @@
+{
+    "customizationOptions": [
+        {
+            "name": "Exhausts",
+            "type": 6,
+            "equipped": true,
+            "customizationMeshName": "SpeedBoatSpoiler1.obj",
+            "customizationTextureName": "CarTex.png"
+        }
+    ]
+}

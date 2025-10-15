@@ -1,0 +1,18 @@
+{
+    "customizationOptions": [
+        {
+            "name": "Charizard Tail",
+            "type": 5,
+            "equipped": true,
+            "customizationMeshName": "ChariKartSpoiler1.obj",
+            "customizationTextureName": "CarTex.png"
+        },
+        {
+            "name": "Charizard Wings",
+            "type": 2,
+            "equipped": true,
+            "customizationMeshName": "ChariKartSkirts1.obj",
+            "customizationTextureName": "CarTex.png"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "customizationOptions": [
+        {
+            "name": "Fenders",
+            "type": 3,
+            "equipped": false,
+            "customizationMeshName": "RaonFBumper1.obj",
+            "customizationTextureName": "CarTex.png"
+        },
+        {
+            "name": "Cannon",
+            "type": 3,
+            "equipped": true,
+            "customizationMeshName": "RaonFBumper2.obj",
+            "customizationTextureName": "CarTex.png"
+        }
+    ]
+}

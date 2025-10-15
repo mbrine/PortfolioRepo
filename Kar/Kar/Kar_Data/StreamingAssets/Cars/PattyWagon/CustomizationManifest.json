@@ -1,0 +1,18 @@
+{
+    "customizationOptions": [
+        {
+            "name": "Balloons",
+            "type": 5,
+            "equipped": true,
+            "customizationMeshName": "PattyWagonBalloonsMesh.obj",
+            "customizationTextureName": "PattyWagonTex.png"
+        },
+        {
+            "name": "Boeing 747SP",
+            "type": 5,
+            "equipped": false,
+            "customizationMeshName": "747SP.obj",
+            "customizationTextureName": "PattyWagonTex.png"
+        }
+    ]
+}

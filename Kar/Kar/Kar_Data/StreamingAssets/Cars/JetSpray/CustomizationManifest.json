@@ -1,0 +1,11 @@
+{
+    "customizationOptions": [
+        {
+            "name": "Exhaust",
+            "type": 6,
+            "equipped": true,
+            "customizationMeshName": "JetSprayMisc1.obj",
+            "customizationTextureName": "CarTex.png"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+behaviors:
+  AICar:
+      trainer_type: sac
+      hyperparameters:
+        batch_size: 20
+        buffer_size: 200
+        learning_rate: 0.005
+        buffer_init_steps: 5000
+        init_entcoef: 1
+        save_replay_buffer: false
+        tau: 0.005
+        steps_per_update: 1
+        learning_rate_schedule: linear
+      network_settings:
+        normalize: false
+        hidden_units: 16
+        num_layers: 4
+        vis_encode_type: simple
+      reward_signals:
+        extrinsic:
+          gamma: 0.99
+          strength: 1.0
+      keep_checkpoints: 5
+      max_steps: 5.0e+10
+      time_horizon: 100
+      summary_freq: 2500
+  AICar1:
+      trainer_type: sac
+      hyperparameters:
+        batch_size: 20
+        buffer_size: 200
+        learning_rate: 0.005
+        buffer_init_steps: 5000
+        init_entcoef: 1
+        save_replay_buffer: false
+        tau: 0.01
+        steps_per_update: 1
+        learning_rate_schedule: linear
+      network_settings:
+        normalize: false
+        hidden_units: 32
+        num_layers: 2
+        vis_encode_type: simple
+      reward_signals:
+        extrinsic:
+          gamma: 0.99
+          strength: 1.0
+      keep_checkpoints: 5
+      max_steps: 5.0e+10
+      time_horizon: 100
+      summary_freq: 2500
+  AICar2:
+      trainer_type: sac
+      hyperparameters:
+        batch_size: 20
+        buffer_size: 200
+        learning_rate: 0.005
+        buffer_init_steps: 5000
+        init_entcoef: 1
+        save_replay_buffer: false
+        tau: 0.01
+        steps_per_update: 1
+        learning_rate_schedule: linear
+      network_settings:
+        normalize: false
+        hidden_units: 64
+        num_layers: 4
+        vis_encode_type: simple
+      reward_signals:
+        extrinsic:
+          gamma: 0.99
+          strength: 1.0
+      keep_checkpoints: 5
+      max_steps: 5.0e+10
+      time_horizon: 100
+      summary_freq: 2500
+  AICar3:
+      trainer_type: sac
+      hyperparameters:
+        batch_size: 20
+        buffer_size: 200
+        learning_rate: 0.005
+        buffer_init_steps: 5000
+        init_entcoef: 1
+        save_replay_buffer: false
+        tau: 0.01
+        steps_per_update: 1
+        learning_rate_schedule: linear
+      network_settings:
+        normalize: false
+        hidden_units: 64
+        num_layers: 8
+        vis_encode_type: simple
+      reward_signals:
+        extrinsic:
+          gamma: 0.99
+          strength: 1.0
+      keep_checkpoints: 5
+      max_steps: 5.0e+10
+      time_horizon: 100
+      summary_freq: 2500
+  AICar4:
+      trainer_type: sac
+      hyperparameters:
+        batch_size: 20
+        buffer_size: 200
+        learning_rate: 0.005
+        buffer_init_steps: 5000
+        init_entcoef: 1
+        save_replay_buffer: false
+        tau: 0.01
+        steps_per_update: 1
+        learning_rate_schedule: linear
+      network_settings:
+        normalize: false
+        hidden_units: 32
+        num_layers: 4
+        vis_encode_type: simple
+      reward_signals:
+        extrinsic:
+          gamma: 0.99
+          strength: 1.0
+      keep_checkpoints: 5
+      max_steps: 5.0e+10
+      time_horizon: 100
+      summary_freq: 2500
+      #mlagents-learn config/aicar1_config.yaml --run-id=AICar

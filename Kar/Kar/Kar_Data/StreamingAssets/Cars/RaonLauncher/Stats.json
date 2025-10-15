@@ -1,0 +1,120 @@
+{
+  "name": "RaonLauncher",
+  "e_TopSpeed": 55.0,
+  "e_EnginePower": 0.8,
+  "e_EngineResistance": 0.25,
+  "e_RPMLimit": 0,
+  "e_NumGears": 4,
+  "d_Downforce": 0.3,
+  "d_Drag": 0.00009000000136438757,
+  "d_Grip": 750.0,
+  "d_DriftGrip": 300.0,
+  "s_DriftTurnSpeed": 3000.0,
+  "s_DriftTurnAcceleration": 11.0,
+  "s_DriftTurnDecay": 3.0,
+  "s_MaxTurnSpeed": 2500.0,
+  "s_MinTurnSpeed": 500.0,
+  "s_MaxTurnValue": 5.0,
+  "m_PhysicsType": "Hybrid",
+  "m_Mass": 999.9999389648438,
+  "m_BrakingPower": 3.0,
+  "m_MeshOffset": {
+    "x": 0.0,
+    "y": -0.47600001096725466,
+    "z": -0.21059000492095948
+  },
+  "m_MeshScale": {
+    "x": 4.178699970245361,
+    "y": 4.178699970245361,
+    "z": 4.178699970245361
+  },
+  "m_MeshRotation": {
+    "x": 0.0,
+    "y": 180.0000457763672,
+    "z": 0.0
+  },
+  "wheels": [
+    {
+      "w_WheelType": 2,
+      "w_MaxSteerAngle": 0.0,
+      "w_WheelRadius": 0.375,
+      "w_SuspensionStrength": 40000.0,
+      "w_DamperStrength": 4000.0,
+      "w_SuspensionTravel": 0.4099999964237213,
+      "w_RestLength": 0.28999999165534975,
+      "w_Position": {
+        "x": -0.5879999995231628,
+        "y": -0.7630000114440918,
+        "z": -1.1920000314712525
+      },
+      "w_Scale": {
+        "x": 0.75,
+        "y": 0.75,
+        "z": 0.75
+      },
+      "w_IsSteering": false,
+      "w_IsDriven":true
+    },
+    {
+      "w_WheelType": 2,
+      "w_MaxSteerAngle": 0.0,
+      "w_WheelRadius": 0.375,
+      "w_SuspensionStrength": 40000.0,
+      "w_DamperStrength": 4000.0,
+      "w_SuspensionTravel": 0.4099999964237213,
+      "w_RestLength": 0.28999999165534975,
+      "w_Position": {
+        "x": 0.5879999995231628,
+        "y": -0.7630000114440918,
+        "z": -1.1920000314712525
+      },
+      "w_Scale": {
+        "x": 0.75,
+        "y": 0.75,
+        "z": 0.75
+      },
+      "w_IsSteering": false,
+      "w_IsDriven":true
+    },
+    {
+      "w_WheelType": 0,
+      "w_MaxSteerAngle": 0.0,
+      "w_WheelRadius": 0.25,
+      "w_SuspensionStrength": 30000.0,
+      "w_DamperStrength": 4000.0,
+      "w_SuspensionTravel": 0.4099999964237213,
+      "w_RestLength": 0.28999999165534975,
+      "w_Position": {
+        "x": 0.5120000243186951,
+        "y": -0.8100000023841858,
+        "z": 0.6359999775886536
+      },
+      "w_Scale": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 0.5
+      },
+      "w_IsSteering": true
+    },
+    {
+      "w_WheelType": 0,
+      "w_MaxSteerAngle": 0.0,
+      "w_WheelRadius": 0.25,
+      "w_SuspensionStrength": 30000.0,
+      "w_DamperStrength": 4000.0,
+      "w_SuspensionTravel": 0.4099999964237213,
+      "w_RestLength": 0.28999999165534975,
+      "w_Position": {
+        "x": -0.5120000243186951,
+        "y": -0.8100000023841858,
+        "z": 0.6359999775886536
+      },
+      "w_Scale": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 0.5
+      },
+      "w_IsSteering": true
+    }
+  ]
+}

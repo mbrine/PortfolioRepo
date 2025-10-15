@@ -1,0 +1,24 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 49958,
+                "file_path": "results\\AICar\\My Behavior\\My Behavior-49958.onnx",
+                "reward": -0.9971642060554586,
+                "creation_time": 1609508506.0382283
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 49958,
+            "file_path": "results\\AICar\\My Behavior.onnx",
+            "reward": -0.9971642060554586,
+            "creation_time": 1609508506.0382283
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.1+cpu",
+        "tensorflow_version": -1
+    }
+}

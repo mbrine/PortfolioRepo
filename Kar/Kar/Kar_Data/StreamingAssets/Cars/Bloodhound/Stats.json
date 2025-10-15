@@ -1,0 +1,117 @@
+{
+    "name": "Bloodhound",
+    "e_TopSpeed": 100.0,
+    "e_EnginePower": 1.0,
+    "e_EngineResistance": 0.05000000074505806,
+    "e_RPMLimit": 0,
+    "e_NumGears": 13,
+    "d_Downforce": 5.0,
+    "d_Drag": 9.999999974752428e-7,
+    "d_Grip": 2500.0,
+    "d_DriftGrip": 1000.0,
+    "s_DriftTurnSpeed": 2500.0,
+    "s_DriftTurnAcceleration": 9.0,
+    "s_DriftTurnDecay": 4.0,
+    "s_MaxTurnSpeed": 2000.0,
+    "s_MinTurnSpeed": 1000.0,
+    "s_MaxTurnValue": 5.0,
+    "m_Mass": 999.9999389648438,
+    "m_BrakingPower": 1.0,
+    "m_MeshOffset": {
+        "x": -0.005771100055426359,
+        "y": -0.13404999673366548,
+        "z": 0.023415999487042428
+    },
+    "m_MeshScale": {
+        "x": 0.6650328040122986,
+        "y": 0.6650328636169434,
+        "z": 0.6650328636169434
+    },
+    "m_MeshRotation": {
+        "x": 0.0,
+        "y": 180.0000457763672,
+        "z": 0.0
+    },
+    "wheels": [
+        {
+            "w_WheelType": 2,
+            "w_MaxSteerAngle": 0.0,
+            "w_WheelRadius": 0.44,
+            "w_SuspensionStrength": 30000.0,
+            "w_DamperStrength": 4000.0,
+            "w_SuspensionTravel": 0.8299999833106995,
+            "w_RestLength": 0.6600000262260437,
+            "w_Position": {
+                "x": -0.7579357028007507,
+                "y": -0.13405001163482667,
+                "z": -1.594618320465088
+            },
+            "w_Scale": {
+                "x": 1.022819995880127,
+                "y": 1.022819995880127,
+                "z": 1.022819995880127
+            },
+            "w_IsSteering": false
+        },
+        {
+            "w_WheelType": 2,
+            "w_MaxSteerAngle": 0.0,
+            "w_WheelRadius": 0.44,
+            "w_SuspensionStrength": 30000.0,
+            "w_DamperStrength": 4000.0,
+            "w_SuspensionTravel": 0.8299999833106995,
+            "w_RestLength": 0.6600000262260437,
+            "w_Position": {
+                "x": 0.7463763356208801,
+                "y": -0.13405001163482667,
+                "z": -1.5946190357208253
+            },
+            "w_Scale": {
+                "x": 1.022819995880127,
+                "y": 1.022819995880127,
+                "z": 1.022819995880127
+            },
+            "w_IsSteering": false
+        },
+        {
+            "w_WheelType": 0,
+            "w_MaxSteerAngle": 0.0,
+            "w_WheelRadius": 0.44,
+            "w_SuspensionStrength": 30000.0,
+            "w_DamperStrength": 4000.0,
+            "w_SuspensionTravel": 0.8299999833106995,
+            "w_RestLength": 0.6600000262260437,
+            "w_Position": {
+                "x": 0.746370792388916,
+                "y": -0.13405001163482667,
+                "z": 1.0189627408981324
+            },
+            "w_Scale": {
+                "x": 1.022819995880127,
+                "y": 1.022819995880127,
+                "z": 1.022819995880127
+            },
+            "w_IsSteering": true
+        },
+        {
+            "w_WheelType": 0,
+            "w_MaxSteerAngle": 0.0,
+            "w_WheelRadius": 0.44,
+            "w_SuspensionStrength": 30000.0,
+            "w_DamperStrength": 4000.0,
+            "w_SuspensionTravel": 0.8299999833106995,
+            "w_RestLength": 0.6600000262260437,
+            "w_Position": {
+                "x": -0.7579241991043091,
+                "y": -0.13405001163482667,
+                "z": 1.0189645290374756
+            },
+            "w_Scale": {
+                "x": 1.022819995880127,
+                "y": 1.022819995880127,
+                "z": 1.022819995880127
+            },
+            "w_IsSteering": true
+        }
+    ]
+}

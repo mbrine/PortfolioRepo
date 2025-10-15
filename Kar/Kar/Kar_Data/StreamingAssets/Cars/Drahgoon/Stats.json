@@ -1,0 +1,117 @@
+{
+    "name": "Drahgoon",
+    "e_TopSpeed": 60.0,
+    "e_EnginePower": 0.3499999940395355,
+    "e_EngineResistance": 0.10000000149011612,
+    "e_RPMLimit": 0,
+    "e_NumGears": 4,
+    "d_Downforce": 1.0,
+    "d_Drag": 0.000009999999747378752,
+    "d_Grip": 2500.0,
+    "d_DriftGrip": 1000.0,
+    "s_DriftTurnSpeed": 4000.0,
+    "s_DriftTurnAcceleration": 14.0,
+    "s_DriftTurnDecay": 7.0,
+    "s_MaxTurnSpeed": 2600.0,
+    "s_MinTurnSpeed": 1000.0,
+    "s_MaxTurnValue": 5.0,
+    "m_Mass": 999.9999389648438,
+    "m_BrakingPower": 0.6000000238418579,
+    "m_MeshOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "m_MeshScale": {
+        "x": 0.43660399317741396,
+        "y": 0.43660402297973635,
+        "z": 0.43660402297973635
+    },
+    "m_MeshRotation": {
+        "x": 0.0,
+        "y": 270.0,
+        "z": 0.0
+    },
+    "wheels": [
+        {
+            "w_WheelType": 2,
+            "w_MaxSteerAngle": 0.0,
+            "w_WheelRadius": 0.28631681203842165,
+            "w_SuspensionStrength": 30000.0,
+            "w_DamperStrength": 4000.0,
+            "w_SuspensionTravel": 0.5,
+            "w_RestLength": 0.3100000023841858,
+            "w_Position": {
+                "x": -0.8169999718666077,
+                "y": -0.05000000074505806,
+                "z": -1.0870000123977662
+            },
+            "w_Scale": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+            },
+            "w_IsSteering": false
+        },
+        {
+            "w_WheelType": 2,
+            "w_MaxSteerAngle": 0.0,
+            "w_WheelRadius": 0.28631681203842165,
+            "w_SuspensionStrength": 30000.0,
+            "w_DamperStrength": 4000.0,
+            "w_SuspensionTravel": 0.5,
+            "w_RestLength": 0.3100000023841858,
+            "w_Position": {
+                "x": 0.8169999718666077,
+                "y": -0.05000000074505806,
+                "z": -1.0870000123977662
+            },
+            "w_Scale": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+            },
+            "w_IsSteering": false
+        },
+        {
+            "w_WheelType": 0,
+            "w_MaxSteerAngle": 0.0,
+            "w_WheelRadius": 0.28631681203842165,
+            "w_SuspensionStrength": 30000.0,
+            "w_DamperStrength": 4000.0,
+            "w_SuspensionTravel": 0.5,
+            "w_RestLength": 0.3100000023841858,
+            "w_Position": {
+                "x": 0.8199999928474426,
+                "y": -0.05000000074505806,
+                "z": 1.0640000104904175
+            },
+            "w_Scale": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+            },
+            "w_IsSteering": true
+        },
+        {
+            "w_WheelType": 0,
+            "w_MaxSteerAngle": 0.0,
+            "w_WheelRadius": 0.28631681203842165,
+            "w_SuspensionStrength": 30000.0,
+            "w_DamperStrength": 4000.0,
+            "w_SuspensionTravel": 0.5,
+            "w_RestLength": 0.3100000023841858,
+            "w_Position": {
+                "x": -0.8199999928474426,
+                "y": -0.05000000074505806,
+                "z": 1.0640000104904175
+            },
+            "w_Scale": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+            },
+            "w_IsSteering": true
+        }
+    ]
+}

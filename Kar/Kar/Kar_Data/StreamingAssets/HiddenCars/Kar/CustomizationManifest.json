@@ -1,0 +1,74 @@
+{
+    "customizationOptions": [
+        {
+            "name": "Hood Scoop",
+            "type": 0,
+            "equipped": false,
+            "customizationMeshName": "KarHood1.obj",
+            "customizationTextureName": "CarTex.png"
+        },
+        {
+            "name": "Spoiler",
+            "type": 5,
+            "equipped": false,
+            "customizationMeshName": "KarWing1.obj",
+            "customizationTextureName": "CarTex.png"
+        },
+        {
+            "name": "Wing",
+            "type": 5,
+            "equipped": false,
+            "customizationMeshName": "KarWing2.obj",
+            "customizationTextureName": "CarTex.png"
+        },
+        {
+            "name": "Wiing",
+            "type": 5,
+            "equipped": false,
+            "customizationMeshName": "KarWing3.obj",
+            "customizationTextureName": "CarTex.png"
+        },
+        {
+            "name": "Wiiing",
+            "type": 5,
+            "equipped": true,
+            "customizationMeshName": "KarWing4.obj",
+            "customizationTextureName": "CarTex.png"
+        },
+        {
+            "name": "Plastic Bumper",
+            "type": 3,
+            "equipped": false,
+            "customizationMeshName": "KarFBumper1.obj",
+            "customizationTextureName": "CarTex.png"
+        },
+        {
+            "name": "Plastic Bumper",
+            "type": 4,
+            "equipped": false,
+            "customizationMeshName": "KarRBumper1.obj",
+            "customizationTextureName": "CarTex.png"
+        },
+        {
+            "name": "Antenna",
+            "type": 1,
+            "equipped": true,
+            "customizationMeshName": "KarRoof1.obj",
+            "customizationTextureName": "CarTex.png"
+        },
+        {
+            "name": "Travel Pack",
+            "type": 1,
+            "equipped": false,
+            "customizationMeshName": "KarRoof2.obj",
+            "customizationTextureName": "CarTex.png"
+        },
+        {
+            "name": "Plastic Skirts",
+            "type": 2,
+            "equipped": true,
+            "customizationMeshName": "KarRoof2.obj",
+            "customizationTextureName": "CarTex.png"
+        }
+    ]
+}
