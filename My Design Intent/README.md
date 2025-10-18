@@ -12,4 +12,5 @@ A PDF file containing my thought process when designing levels for video games.
 > - [Snow Cabin (Easy)](https://youtu.be/XzufOhB88yg)
 > - [Ruined Switches (Medium)](https://youtu.be/sCutjdRqebQ)
 > - [Laser Gauntlet (Hard)](https://youtu.be/h4LAY0DsRXo)
+> 
 > Each folder contains the levels' cadence charts and .mmlv files.
