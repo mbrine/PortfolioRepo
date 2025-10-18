@@ -1,0 +1,15 @@
+A - Moving Lasers
+B - Flipper Platforms
+C - Platforming
+D - Cross/Diagonal Laser Redirectors
+E - Laser Blocking
+
+Screen 1 - A,BC,ABC,C'A
+Screen 2 - AD,BCA,A
+Screen 3,4 - AC'
+Screen 5 - CBAE,ACE
+Screen 6 - ACD'E,ACDE,A'C',AB'C
+Screen 7 - AD',ACD'
+Screen 8 - AED,C
+Screen 9 - AED'CB
+Screen 10,11 - ABC,ACD,A'C'

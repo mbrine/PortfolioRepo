@@ -1,0 +1,20 @@
+A - Switching
+B - Timing Challenge
+C - Platforming Challenge
+D - Laser Challenge
+E - Destructible/Gravity Blocks Involved
+F - Spikes Involved
+
+Screen 1 - AEF
+Optional secret shortcut (Screen 1 & Secret 1,2) - E,C',A
+Screen 2 - E,AC,ACE,A,C
+Screen 3 - E,ACF,AC,ACF'
+Screen 4 - AD
+Screen 5 - AC'
+Screen 6,7 - A'C'B'
+Screen 8 - ACE'
+Screen 9 - F,CF,CF
+Screen 9 (Alt) - C,F,F',CF
+Screen 10,11 - AD,AF,ACD'
+Screen 12 - AB'CD'
+Screen 13 - A'B'C,AB'F'

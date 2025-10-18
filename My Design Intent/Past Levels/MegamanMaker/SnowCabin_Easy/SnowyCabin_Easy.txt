@@ -1,0 +1,15 @@
+A - Spike challenge (Spikes involved)
+B - Enemy challenge (Kill/avoid enemies)
+C - Platforming challenge (Sliding, Jumping, Ladders)
+D - Ice
+E - Wind
+
+Screen 1 - C,A
+Optional Secret area (Returns to screen 1) - C,A',B,B,A'
+Screen 2 - B,B',C
+Screen 3 - B,C,AC,B
+Screen 4 - CA',A,BC
+Screen 5 - D,CD,BD,CD
+Screen 6 - CDE,C'E,CAD,CDE,BD,CDE
+Screen 7 - CAE
+Screen 8,9 - CAE,CB,DB',C'
